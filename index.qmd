@@ -1,17 +1,7 @@
 ---
 title: "Sachin Chhikara"
-links:
-    - text: "Resume"
-      href: pdfs/Sachin_chhikara_Resume
-    - icon: envelope
-      text: "Email"
-      href: "mailto:sachin.chhikara@utoronto.ca"
-    - icon: github
-      text: "GitHub"
-      href: https://github.com/SachinChhikara
-
 ---
 
-Hi, I am undergrad student who is currently studying at the University of Toronto.
-I am majoring in math and statistics and minor in computer science. I am currently 
-doing a coop at Environment and Climate Change Canada as a software developer. 
+Hi, I am undergrad student who is currently studying at the University of Toronto. I am majoring in math and statistics and minor in computer science. I am currently doing a coop at Environment and Climate Change Canada as a software developer.
+
+You can view my Resume [here](pdfs/Sachin_chhikara_Website_Resume.pdf).
