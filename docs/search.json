@@ -2,8 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Sachin Chhikara",
     "section": "",
-    "text": "I am student at University of Toronto."
+    "text": "Hi, I am undergrad student who is currently studying at the University of Toronto. I am majoring in math and statistics and minor in computer science. I am currently doing a coop at Environment and Climate Change Canada as a software developer."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
